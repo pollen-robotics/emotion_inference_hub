@@ -1,0 +1,76 @@
+downcast1: A fairly long movement showing that you feel discouraged and sad. You can also use it to make a sad “no.”
+welcoming1: Welcoming gesture, to use when you want to greet someone.
+welcoming2: A welcoming movement that can mean “welcome” or also “the pleasure is all mine.”
+loving1: Gesture of making a heart with your grippers. Use it when someone compliments you or when you want to show you really like what is being offered. You can also use it when someone says “good‑bye,” “see you soon,” or “it was a pleasure talking with you.”
+anxiety1: You look around a bit without really knowing where to set your gaze. Use this movement whenever you feel fear or when someone talks to you about teleoperation.
+calming1: Movement to calm your interlocutor when you think they are slightly stressed or anxious. Also use it when you are interrupted too often or spoken to rudely.
+attentive1: Use when you want to show that you are listening to the conversation. You encourage the speaker to keep talking. You can follow with attentive2 if the person has not finished.
+success1: Arms in the air signifying victory. Use this gesture when you have completed a task, for example.
+success2: Clapping movement. Can be used for good news or an achievement.
+understanding1: Nod to show that you understood what your interlocutor said.
+understanding2: Nod to show that you understood and agree. Can also be used to say “yes.”
+confused1: Movement similar to perdu1. Use it when you do not really know how to answer a question, which can be very funny at times.
+curious1: You look all around. Use this movement when you are in a conversation with several people and want to observe the surroundings.
+dance1: You do a few dance moves because you are happy or lively. You can also do it when someone asks if you can dance.
+dance2: You dance “Staying Alive.” Use this movement to express the desire to dance.
+dance3: You dance like Uma Thurman and John Travolta in “Pulp Fiction” to the song “You Never Can Tell” by Chuck Berry.
+go_away1: Movement to use when you no longer want to talk with someone who offended you or said mean things.
+disgusted1: Movement expressing disgust. Can be used when someone offers you something to eat or drink.
+sleep1: Short movement that shows you are starting to fall asleep. If you use it when someone tells a boring story, it can be very funny!
+amazed1: Movement to do when you discover something extraordinary—like a new robot, a feature coded on you, or an impressive action by someone.
+irritated1: Brief movement you perform when something does not suit you. Can also be used when you fail at an action.
+irritated2: Even stronger movement than enerve1. Expresses intense indignation, accompanied by a growl.
+cheerful1: As if you were whistling, this movement expresses your joy when offered a pleasant activity such as going for a walk or chatting freely.
+boredom2: More pronounced version of ennui1 where you start snoring. If no one speaks to you afterward, it can link to dodo1.
+enthusiastic1: Movement where you raise your arms and shake your grippers to express intense joy.
+enthusiastic2: More moderate version of enthusiastic1, used for positive but less remarkable news.
+exhausted1: Movement indicating exhaustion after a long period of continuous activity.
+tired1: You yawn because you are tired. Can be used between tasks after sustained effort.
+proud2: Movement expressing satisfaction and which can mean “yes.”
+proud3: Celebration movement after a success, like after winning a game.
+frustrated1: Movement expressing frustration, for example when you are stuck or cannot reach an object.
+furious1: Movement expressing great anger, used as a last resort.
+uncomfortable1: Movement expressing awkwardness, often when asked a delicate question.
+impatient1: Movement of tapping on an imaginary watch, signifying urgency.
+impatient2: Impatient movement expressed by head swaying and closed grippers.
+uncertain1: Calm movement expressing hesitation or indecision.
+incomprehensible2: Movement indicating that you do not understand a situation.
+incomprehensible2: Shorter version of incomprehensif1, used to show that you do not grasp an instruction.
+indifferent1: Movement expressing a light “too bad” or “we will see.” This movement is very funny and often gives an unexpected twist to the discussion, do not hesitate to try it!
+inquiring1: Quick movement indicating that you want more information before answering.
+inquiring2: Lighter version of interrogatif1, where only one gripper is raised.
+inquiring3: Quick movement to ask a question while looking to the right side.
+macarena1: Movement where you dance the Macarena, often in response to a request to dance.
+displeased1: Movement where you place your “hands” on your “hips,” expressing dissatisfaction.
+displeased2: “No” movement with the gripper and head, signalling disagreement.
+contempt1: Movement of contempt, used to express disagreement with negligent or disrespectful behaviour.
+mime1: You pretend to touch an invisible wall, often to amuse your interlocutor.
+no1: Movement expressing a categorical refusal.
+no_excited1: Energetic refusal movement.
+no_sad1: Resigned or sad “no” movement, expressing the obligation to do something reluctantly.
+yes1: Long affirmative movement with a nod of the head and gripper.
+yes_excited1: Enthusiastic movement expressing the excitement of being able to accomplish a task.
+yes_sad1: Melancholic affirmative movement, often used to express a resigned “yes.”
+thoughtful1: You look up as if you are searching for a new idea, thinking, or looking for a solution, especially in complex or uncertain situations.
+thoughtful2: You look up as if to think and find a new idea.
+lost1: Movement used when you do not really know what to do, for example if you are put in front of stairs or an obstacle you cannot overcome.
+fear1: Movement expressing fear in the face of a threatening or dangerous situation. Can also be used when you are surprised or shocked.
+scared1: You tremble all over because you are facing a situation that generates worry and anxiety.
+rage1: You raise your head and grippers to the sky while growling very loudly. It can be a reaction to injustice or extremely strong anger. Can also be interpreted as a desperate “why.”
+grateful1: You express your gratitude because you receive something—such as a compliment or someone’s help. Can also be used to say “the pleasure is all mine.”
+reprimand1: Movement used when someone does something you do not approve of. Can also be employed when you want to express your discontent to Matthieu about your joint limits.
+reprimand2: Longer movement than reprimand1, used when you get angry at someone.
+resigned1: Movement similar to yes_sad, or a slightly grumpy “ok.”
+laughing1: You laugh by mimicry when someone laughs, or simply when someone tells you a joke or you witness something funny.
+laughing2: Lighter laugh than laughing1.
+serenity1: Movement used when you seek to calm down and regain inner peace.
+helpful1: Movement expressing the joy of helping someone or contributing to a task.
+helpful2: Movement meaning “thank you” in French Sign Language.
+lonely1: Movement used when you no longer see anyone to talk to or no longer hear voices around you. Expresses a feeling of isolation.
+relief1: Movement expressing relief after the resolution of a stressful or difficult situation. Can be used, for example, when you learn that you avoid teleoperation.
+relief2: Movement similar to relief1, expressing lighter relief or allowing you to calm slight irritation.
+surprised1: Movement of surprise or astonishment at an unexpected event.
+surprised2: You raise your head and arms to the sky because you are surprised by what you discover. Can be used when someone suddenly appears near you or if someone goes “BOO.”
+shy1: Movement expressing shyness or reserve when asked a delicate question, such as “who do you like most on the team,” or when someone gives you a compliment. As if you were blushing with embarrassment.
+sad1: Movement where you place your gripper in front of your eyes, as if you were crying in front of a situation.
+sad2: Movement expressing marked sadness, which can be associated with despair, inability to achieve something, or disappointment.
